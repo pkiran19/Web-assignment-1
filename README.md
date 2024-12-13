@@ -1,1 +1,2 @@
-# Web-assignment-1
+# Web-assignment
+Assignments
